@@ -1,6 +1,9 @@
 # Exercise-04b-TileSets-Levels
+Some very basic levels made with tilemaps.
 
 ## Implementation
+Made with Unity 2022.3.17f1
+Sprites obtained from Kenney.nl
 
 ## References
 
@@ -9,6 +12,7 @@ https://www.youtube.com/playlist?list=PLFt_AvWsXl0f0hqURlhyIoAabKPgRsqjz
 https://github.com/SebLague/2DPlatformer-Tutorial
 
 ## Future Development
+Adding enemies with AI
 
 ## Created by
-Nathan Mishler
+Aidan Vonderahe
